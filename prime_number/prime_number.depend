@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1597052165 source:c:\users\hp\desktop\l&t\prime_number\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597052165 c:\users\hp\desktop\l&t\prime_number\unity\unity.h
+	"unity_internals.h"
+
+1597052165 c:\users\hp\desktop\l&t\prime_number\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597338332 source:c:\users\hp\desktop\l&t\prime_number\test\test_prime.h
+
+1597340279 source:c:\users\hp\desktop\l&t\prime_number\inc\prime.h
+
+1597052165 source:c:\users\hp\desktop\l&t\prime_number\unity\unity.h
+	"unity_internals.h"
+
+1597052165 source:c:\users\hp\desktop\l&t\prime_number\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597338961 source:c:\users\hp\desktop\l&t\prime_number\main.c
+	"test_prime.h"
+
+1597338332 c:\users\hp\desktop\l&t\prime_number\test\test_prime.h
+
+1597340279 source:c:\users\hp\desktop\l&t\prime_number\src\prime.c
+	"prime.h"
+
+1597340279 c:\users\hp\desktop\l&t\prime_number\inc\prime.h
+
+1597340290 source:c:\users\hp\desktop\l&t\prime_number\test\test_prime.c
+	"unity.h"
+	"prime.h"
+
