@@ -9,7 +9,7 @@ SRC = main.c\
 src/prime.c\
 
 # All test source files
-TEST_SRC = src/pime.c\
+TEST_SRC = src/prime.c\
 test/test_prime.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
