@@ -4,3 +4,4 @@
 
 ![cppcheck-action](https://github.com/stepin104283/task/workflows/cppcheck-action/badge.svg)
 ![CI](https://github.com/stepin104283/task/workflows/CI/badge.svg)
+![Unit testing](https://github.com/stepin104283/task/workflows/Unit%20testing/badge.svg)
